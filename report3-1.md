@@ -8,9 +8,17 @@
 それぞれpatch_panelのサブコマンドとして実装してください．
 
 ###はじめに
-以下のレポートは[こちら](https://github.com/handai-trema/patch-panel-yamatchan/blob/master/report.md)のレポートを参考に作成した。
+今回のプログラムは[こちら](https://github.com/handai-trema/patch-panel-yamatchan/blob/master/report.md)のレポートを参考に作成した。
 
 ##解答
+
+
+コートは以下のようになっている
+
+ * [lib/patch_panel.rb](https://github.com/handai-trema/patch-panel-Nagatomi-Ken/blob/develop/lib/patch_panel.rb)
+ * [bin/patch_panel](https://github.com/handai-trema/patch-panel-Nagatomi-Ken/blob/develop/bin/patch_panel)
+
+
 以下のような環境で動作確認を行った
 
 ```
